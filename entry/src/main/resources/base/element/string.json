@@ -1,0 +1,124 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "label"
+    },
+    {
+      "name": "label_area",
+      "value": "AREA"
+    },
+    {
+      "name": "label_size",
+      "value": "SIZE"
+    },
+    {
+      "name": "label_visible",
+      "value": "VISIBLE"
+    },
+    {
+      "name": "label_lifecycle",
+      "value": "LIFE"
+    },
+    {
+      "name": "label_hover",
+      "value": "HOVER"
+    },
+    {
+      "name": "dashboard_title",
+      "value": "Event Dashboard"
+    },
+    {
+      "name": "dashboard_probes_section",
+      "value": "Probes"
+    },
+    {
+      "name": "dashboard_timeline_section",
+      "value": "Timeline"
+    },
+    {
+      "name": "dashboard_timeline_empty",
+      "value": "no events yet"
+    },
+    {
+      "name": "dashboard_reset",
+      "value": "Reset"
+    },
+    {
+      "name": "nav_layout_probe",
+      "value": "Layout Probe"
+    },
+    {
+      "name": "nav_impression_probe",
+      "value": "Impression Probe"
+    },
+    {
+      "name": "nav_hover_probe",
+      "value": "Hover Probe"
+    },
+    {
+      "name": "layout_probe_title",
+      "value": "Layout Probe"
+    },
+    {
+      "name": "layout_probe_grow",
+      "value": "Grow box"
+    },
+    {
+      "name": "layout_probe_shrink",
+      "value": "Shrink box"
+    },
+    {
+      "name": "layout_probe_area",
+      "value": "area: %s"
+    },
+    {
+      "name": "layout_probe_size",
+      "value": "size: %s"
+    },
+    {
+      "name": "impression_probe_title",
+      "value": "Impression Probe"
+    },
+    {
+      "name": "impression_probe_hint",
+      "value": "Scroll to see · Tap to mount"
+    },
+    {
+      "name": "impression_probe_seen",
+      "value": "Seen %d/%d"
+    },
+    {
+      "name": "impression_probe_card",
+      "value": "card %d"
+    },
+    {
+      "name": "impression_probe_card_unmounted",
+      "value": "card %d unmounted"
+    },
+    {
+      "name": "hover_probe_title",
+      "value": "Hover Probe"
+    },
+    {
+      "name": "hover_probe_target",
+      "value": "touch me"
+    },
+    {
+      "name": "hover_probe_empty",
+      "value": "no hover yet"
+    },
+    {
+      "name": "hover_probe_notice",
+      "value": "Turn accessibility mode on in device settings, otherwise this target reports nothing."
+    }
+  ]
+}

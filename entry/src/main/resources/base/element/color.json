@@ -1,0 +1,48 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "app_background",
+      "value": "#000000"
+    },
+    {
+      "name": "surface",
+      "value": "#1E2230"
+    },
+    {
+      "name": "surface_button",
+      "value": "#2B3350"
+    },
+    {
+      "name": "accent_primary",
+      "value": "#3E7BFA"
+    },
+    {
+      "name": "accent_event",
+      "value": "#7FD1B9"
+    },
+    {
+      "name": "accent_danger",
+      "value": "#FF8A80"
+    },
+    {
+      "name": "text_primary",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "text_secondary",
+      "value": "#A0A6B0"
+    },
+    {
+      "name": "text_body",
+      "value": "#D4D8E0"
+    },
+    {
+      "name": "text_muted",
+      "value": "#6C7280"
+    }
+  ]
+}
